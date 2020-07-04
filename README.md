@@ -26,7 +26,7 @@ The name of the resource cannot be changed!
 - Add this in your `server.cfg`:
 
 ```
-start wz-mecanoshop
+start wz-illegalvendeur
 ```
 Si vous avez besoin d'aide pour l'installation : https://discord.gg/eX9GXWN
 If you need help installing: https://discord.gg/eX9GXWN

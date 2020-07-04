@@ -20,7 +20,8 @@ The name of the resource cannot be changed!
 # Screenshot
 
 ![screenshot](https://media.discordapp.net/attachments/723280320450920480/728964362475405402/unknown.png?width=704&height=702)
-- [Prewiew](https://streamable.com/88vz2t) 
+
+# - [Preview](https://streamable.com/88vz2t) 
 
 # Installation
 - Import `wz-illegalvendeur` in your server base
